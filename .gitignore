@@ -1,1 +1,5 @@
-app.js
+# Using .gitignore helps you to cancel your file from Git Push
+
+/script.js
+
+/node_modules
