@@ -1,7 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: poppins;
+    height: 100vh;
+    background: linear-gradient(120deg, #EF476F 40%, #FFD166 100%);
+}
+
 h1 {
     text-decoration: underline dashed;
+    color: #fff;
 }
 
 p {
-    color: blue;
+    color: #fff;
+}
+
+p:hover {
+    color: #FFD166;
 }
