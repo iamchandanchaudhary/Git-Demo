@@ -21,3 +21,38 @@ p {
 p:hover {
     color: #FFD166;
 }
+
+section {
+    display: flex;
+    /* gap: 20px; */
+}
+
+.box1 {
+    height: 200px;
+    width: 200px;
+    background: linear-gradient(120deg, #EF476F 40%, #FFD166 100%);
+
+    margin: 20px;
+    border: 2px #fff solid;
+    border-radius: 15px;
+}
+
+.box2 {
+    height: 200px;
+    width: 200px;
+    background: linear-gradient(120deg, #204ac0 40%, #50acd3 100%);
+
+    margin: 20px;
+    border: 2px #fff solid;
+    border-radius: 15px;
+}
+
+.box3 {
+    height: 200px;
+    width: 200px;
+    background: linear-gradient(120deg, #a53860 40%, #da627d 100%);
+
+    margin: 20px;
+    border: 2px #fff solid;
+    border-radius: 15px;
+}
